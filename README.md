@@ -1,10 +1,7 @@
 # MERN_website
-An online Tshirt Store which is built using MERN stack (Mongoose, Express, React, Node).
+An online Tshirt Store which is built using MERN stack (Mongoose, Express, React, Node). It implements the CRUD functions (Create, Read, Update, Delete) and are beautified using the bootstrap.
 
-The only difference between site_1 and site_2 is the type of payment gateway used.
-
-1) site_1 -> Stripe
-2) site_2 -> Paypal
+I have integrated the Stripe payment gateway for easy payments.
 
 To see their working :-
 
